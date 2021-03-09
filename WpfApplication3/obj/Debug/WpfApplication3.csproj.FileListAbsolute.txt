@@ -1,0 +1,14 @@
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.g.cs
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\MainWindow.baml
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+c:\users\alifurkan\documents\visual studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
