@@ -31,15 +31,20 @@ namespace WpfApplication3
             public static DataView ItemsSource { get; internal set; }
         }
 
-        SQLiteConnection Connect = new SQLiteConnection("Data Source=C:/PersonsDB.db;Version=3;");
+
         public void list()
         {
-            
-            
+            SQLiteConnection Connect = new SQLiteConnection("Data Source=C:/PersonsDB.db;Version=3;");
+            Connect.Open();
+            SQLiteDataAdapter adapter = new SQLiteDataAdapter("SELECT * FROM User", Connect);
+            DataTable Table = new DataTable();
+            adapter.Fill(Table);
+            customerDataGrid.ItemsSource = Table.DefaultView;
+            Connect.Close();
 
         }
 
-        
+
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
@@ -47,21 +52,16 @@ namespace WpfApplication3
             addwindow.Show();
         }
 
-        
+
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
 
-            
+            list();
         }
 
-        private void button1_Click(object sender, RoutedEventArgs e)
+        private void dataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            Connect.Open();
-            SQLiteDataAdapter adapter = new SQLiteDataAdapter("SELECT * FROM User", Connect);
-            DataTable Table = new DataTable();
-            adapter.Fill(Table);
-            customerDataGrid.ItemsSource = Table.DefaultView;
-            Connect.Close();
+            list();
         }
     }
 }

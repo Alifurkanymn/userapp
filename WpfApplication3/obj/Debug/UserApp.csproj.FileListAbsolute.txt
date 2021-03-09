@@ -16,3 +16,6 @@ C:\Users\alifurkan\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfAppl
 C:\Users\alifurkan\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
 C:\Users\alifurkan\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
 C:\Users\alifurkan\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\UserApp.csproj.GenerateResource.Cache
+C:\Users\alifurkan\Desktop\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\alifurkan\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\alifurkan\Desktop\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
